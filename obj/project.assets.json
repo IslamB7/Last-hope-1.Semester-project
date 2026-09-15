@@ -8,19 +8,19 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\smimi\\.nuget\\packages\\": {}
+    "C:\\Users\\massa\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\smimi\\Documents\\GitHub\\Last-hope-1.Semester-project\\Last-hope-1.Semester-project.csproj",
+      "projectUniqueName": "C:\\Users\\massa\\Documents\\GitHub\\Last-hope-1.Semester-project\\Last-hope-1.Semester-project.csproj",
       "projectName": "Last-hope-1.Semester-project",
-      "projectPath": "C:\\Users\\smimi\\Documents\\GitHub\\Last-hope-1.Semester-project\\Last-hope-1.Semester-project.csproj",
-      "packagesPath": "C:\\Users\\smimi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\smimi\\Documents\\GitHub\\Last-hope-1.Semester-project\\obj\\",
+      "projectPath": "C:\\Users\\massa\\Documents\\GitHub\\Last-hope-1.Semester-project\\Last-hope-1.Semester-project.csproj",
+      "packagesPath": "C:\\Users\\massa\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\massa\\Documents\\GitHub\\Last-hope-1.Semester-project\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\smimi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\massa\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"

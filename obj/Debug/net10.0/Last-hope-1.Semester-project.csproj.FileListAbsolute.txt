@@ -3,3 +3,8 @@ C:\Users\smimi\Documents\GitHub\Last-hope-1.Semester-project\obj\Debug\net10.0\L
 C:\Users\smimi\Documents\GitHub\Last-hope-1.Semester-project\obj\Debug\net10.0\Last-hope-1.Semester-project.AssemblyInfo.cs
 C:\Users\smimi\Documents\GitHub\Last-hope-1.Semester-project\obj\Debug\net10.0\Last-hope-1.Semester-project.csproj.CoreCompileInputs.cache
 C:\Users\smimi\Documents\GitHub\Last-hope-1.Semester-project\obj\Debug\net10.0\Last-hope-1.Semester-project.sourcelink.json
+C:\Users\massa\Documents\GitHub\Last-hope-1.Semester-project\obj\Debug\net10.0\Last-hope-1.Semester-project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\massa\Documents\GitHub\Last-hope-1.Semester-project\obj\Debug\net10.0\Last-hope-1.Semester-project.AssemblyInfoInputs.cache
+C:\Users\massa\Documents\GitHub\Last-hope-1.Semester-project\obj\Debug\net10.0\Last-hope-1.Semester-project.AssemblyInfo.cs
+C:\Users\massa\Documents\GitHub\Last-hope-1.Semester-project\obj\Debug\net10.0\Last-hope-1.Semester-project.csproj.CoreCompileInputs.cache
+C:\Users\massa\Documents\GitHub\Last-hope-1.Semester-project\obj\Debug\net10.0\Last-hope-1.Semester-project.sourcelink.json

@@ -1,3 +1,5 @@
+Console.WriteLine("Hello World");
+
 Sring name = Smilla;
 int age = 19;
 bool experience = false;
